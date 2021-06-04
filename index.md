@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Bem vindo a minha page
 
-You can use the [editor on GitHub](https://github.com/Gabrielfernandes87f/.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+hi, here Gabriel Fernandes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```html
+ <title>Minha Page no git</title>
+´´´
 
 ```markdown
 Syntax highlighted code block
