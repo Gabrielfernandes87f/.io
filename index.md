@@ -2,9 +2,6 @@
 
 hi, here Gabriel Fernandes
 
-```html
-  ´Minha page no GitHub´
-´´´
 
 
 
