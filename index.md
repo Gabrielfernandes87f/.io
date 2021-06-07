@@ -6,6 +6,11 @@ acesse...
 
 
 
+`https://gabrielfernandesweb.online`
+
+
+
+
 `https://www.instagram.com/gabrielfernandes87s`
 
 
@@ -13,6 +18,14 @@ acesse...
 
 
 `https://app.rocketseat.com.br/me/gabrielfernandesweb`
+
+
+
+
+`https://github.com/Gabrielfernandes87f`
+
+
+
 
 
 
