@@ -6,8 +6,8 @@ hi, here Gabriel Fernandes
 ## Programador Jr # tecnologias = 
 
 ```
-html5, css, javascript, adonis, php, bootstrap, laravel, express,
-scrum (escrum não é bem um tecnoligia é um método usando pra trabalhar as tecnologias), crud
+html5, css3, javascript, adonis, php, bootstrap, laravel, express, crud,
+scrum (escrum não é bem um tecnoligia é um método usando pra trabalhar as tecnologias)
 
 ```
 
