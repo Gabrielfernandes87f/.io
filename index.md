@@ -11,19 +11,22 @@ acesse...
 <a href="https://gabrielfernandesweb.online">https://gabrielfernandesweb.online</a><br>
 </h3><br>
 
-´meu instagram´
+# Meu instagram
 <h3>
 <a href="https://www.instagram.com/gabrielfernandes87s">https://www.instagram.com/gabrielfernandes87s</a><br>
 </h3><br>
 
+# Meus estudos de codigo no codepen
 <h3>
 <a href="https://codepen.io/gabrielfernandes87f">https://codepen.io/gabrielfernandes87f</a><br>
 </h3><br>
 
+# Meu canal de estudos
 <h3>
 <a href="https://app.rocketseat.com.br/me/gabrielfernandesweb">https://app.rocketseat.com.br/me/gabrielfernandesweb</a><br>
 </h3><br>
   
+# meu github
 <h3>  
 <a href="https://github.com/Gabrielfernandes87f">https://github.com/Gabrielfernandes87f</a><br>
 </h3><br>
