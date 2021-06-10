@@ -2,31 +2,38 @@
 
 hi, here Gabriel Fernandes
 
-acesse...
+
+## Programador Jr # tecnologias = 
+
+```
+html5, css, javascript, adonis, php, bootstrap, laravel, express,
+scrum (escrum não é bem um tecnoligia é um método usando pra trabalhar as tecnologias), crud
+
+```
 
 
-# meu site
+# Meu Site
 <h3> 
   
 <a href="https://gabrielfernandesweb.online">https://gabrielfernandesweb.online</a><br>
 </h3><br>
 
-# Meu instagram
+# Meu Instagram
 <h3>
 <a href="https://www.instagram.com/gabrielfernandes87s">https://www.instagram.com/gabrielfernandes87s</a><br>
 </h3><br>
 
-# Meus estudos de codigo no codepen
+# Meus Estudos de Codigo no Codepen
 <h3>
 <a href="https://codepen.io/gabrielfernandes87f">https://codepen.io/gabrielfernandes87f</a><br>
 </h3><br>
 
-# Meu canal de estudos
+# Meu Canal de Estudos
 <h3>
 <a href="https://app.rocketseat.com.br/me/gabrielfernandesweb">https://app.rocketseat.com.br/me/gabrielfernandesweb</a><br>
 </h3><br>
   
-# meu github
+# Meu Github
 <h3>  
 <a href="https://github.com/Gabrielfernandes87f">https://github.com/Gabrielfernandes87f</a><br>
 </h3><br>
