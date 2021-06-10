@@ -12,23 +12,23 @@ scrum (escrum não é bem um tecnoligia é um método usando pra trabalhar as te
 ```
 
 
-# Meu Site
+# Meu site
 <h3> 
   
 <a href="https://gabrielfernandesweb.online">https://gabrielfernandesweb.online</a><br>
 </h3><br>
 
-# Meu Instagram
+# Meu instagram
 <h3>
 <a href="https://www.instagram.com/gabrielfernandes87s">https://www.instagram.com/gabrielfernandes87s</a><br>
 </h3><br>
 
-# Meus Estudos de Codigo no Codepen
+# Meus estudos de codigo no codepen
 <h3>
 <a href="https://codepen.io/gabrielfernandes87f">https://codepen.io/gabrielfernandes87f</a><br>
 </h3><br>
 
-# Meu Canal de Estudos
+# Meu Canal de sstudos
 <h3>
 <a href="https://app.rocketseat.com.br/me/gabrielfernandesweb">https://app.rocketseat.com.br/me/gabrielfernandesweb</a><br>
 </h3><br>
