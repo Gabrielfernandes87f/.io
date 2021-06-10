@@ -4,7 +4,7 @@ hi, here Gabriel Fernandes
 
 acesse...
 
-<h3 align="center">
+<h3>
 <a href="https://gabrielfernandesweb.online">https://gabrielfernandesweb.online</a><br>
 </h3><br>
 
